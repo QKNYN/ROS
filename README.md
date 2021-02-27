@@ -1,4 +1,6 @@
 If you want to read Japanese version, please read READMEJP.md
+日本語verが読みたい場合にはREADMEJP.mdを参照してください．
+
 
 There are some ROS file in this repository.  
 This repository is consisted by next directory.  
