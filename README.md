@@ -1,4 +1,4 @@
-If you want to read Japanese version, please read READMEJP.md
+If you want to read Japanese version, please read READMEJP.md  
 日本語verが読みたい場合にはREADMEJP.mdを参照してください．
 
 
